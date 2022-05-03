@@ -1,0 +1,138 @@
+/* Universal */
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&family=Roboto+Condensed&family=Space+Mono&display=swap');
+
+* {
+    font-family: Rajdhani;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    text-align:center;
+
+}
+
+/* Body */
+
+body{
+    background-color:white;
+
+}
+
+/* Header */ 
+
+header {
+    margin: 20px;
+
+}
+
+header h2 {
+    font-style:italic;
+    font-size:16px;
+
+
+}
+
+/* Colors Section */
+
+
+.colors h2 {
+    margin: 40px;
+    text-align:left;
+}
+
+.colors article{
+    display:block;
+    padding: 40px;
+    margin: 15px;
+    width: 40px;
+    height: 40px;
+    border:2px solid black;
+
+}
+
+.panache {
+    background-color:#edf4ec;
+    
+}
+
+.alt-white{
+    background-color: #e5ecea;
+
+}
+
+.grayish {
+    background-color: #d4d5d4;
+}
+
+
+
+.darkish {
+    background-color: #8d958d;
+
+}
+
+.lavender {
+    background-color: #dcd0ff;
+
+}
+
+
+/* Fonts Section */
+
+.fonts {
+    margin:40px 0px;
+    position:fixed;
+    top:77px;
+    right:50px;
+    text-align:right;
+
+}
+
+.fonts h2 {
+    text-align:right;
+}
+
+.fonts article {
+  margin: 40px 0px;
+  height: 40px;
+  text-align:right;
+
+}
+
+.fonts .fonts-name {
+    font-size:25px;
+}
+
+.rajdhani {
+    font-family: 'Rajdhani';
+  
+}
+
+.space-mono {
+    font-family: 'Space Mono';
+}
+
+.roboto-condensed{
+    font-family: 'Roboto Condensed'
+}
+
+
+/* Text Styles Section */
+
+.text-styles {
+    position:fixed;
+    top:500px;
+    right:50px;
+
+
+}
+
+.text-styles h2 {
+ 
+
+}
+
+
+
+/* Foot */
+
